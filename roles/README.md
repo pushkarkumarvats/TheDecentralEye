@@ -2,7 +2,7 @@
 
 **Discover different ways to contribute and find your place in TheDecentralEye community!**
 
-This folder contains information about various contribution roles, team positions, and **future job opportunities** within our project and the broader tech industry. Whether you're looking to contribute, seeking career guidance, or searching for job opportunities, understanding these roles will help you navigate both our community and your career path.
+This folder contains information about various contribution roles, team positions, and **future job opportunities** within our project and the broader tech industry. Whether you're looking to contribute, seeking career guidance, or searching for job opportunities, understanding these roles will help you navigate both our community and your career path...
 
 ## 🚀 Job Opportunities & Future Roles
 
