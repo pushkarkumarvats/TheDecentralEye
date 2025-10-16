@@ -21,7 +21,7 @@ Ready to join our community? Here's how you can get involved:
 1. **🔍 Explore the repository** - Browse through our folders to see what resonates with you
 2. **📖 Read our [Contributing Guide](CONTRIBUTING.md)** - Learn about our contribution process
 3. **💬 Join the conversation** - Use GitHub Discussions to connect with other contributors
-4. **🎯 Find your role** - Check out the `roles/` folder to see how you can contribute
+4. **🎯 Find your role** - Check out the `roles/` folder to find your future role that interests you
 5. **🛤️ Share your journey** - Add your learning path or career story to help others
 
 New to open source? No problem! This repository is designed to be beginner-friendly. We welcome contributions of all sizes, from fixing typos to sharing complete career roadmaps.
@@ -31,11 +31,11 @@ New to open source? No problem! This repository is designed to be beginner-frien
 Our repository is organized into three main sections:
 
 ### 🎭 `roles/`
-**Defining different contribution and team roles**
-- Discover various ways to contribute to the project
-- Find roles that match your skills and interests
+**Find your future roles and paths**
+- Discover various ways to become someone in future. 
+- Find roles that match your skills and interests.
 - Learn about different career paths in tech
-- Connect with mentors and mentees
+- Find resources to learn and grow your skills for a particular role
 
 ### 🗺️ `roadmap/`
 **Curated learning paths and career goals**
